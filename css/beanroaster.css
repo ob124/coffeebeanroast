@@ -37,20 +37,31 @@ footer {
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) 
+    transform: translate(-50%, -50%)
 }
 
 #tdldimglabel{
     width: 15%
+    text-align: center
 }
 
 #tdldimginput{
     width: 61%
+    text-align: center
 }
 
 #tdpointermode{
     width: 24%;
 	text-align: center
+}
+
+#pointerMode {
+    width: 24%;
+    text-align: center
+}
+
+#tblButtons {
+    width: 20%;
 }
 
 #uploadImage{
